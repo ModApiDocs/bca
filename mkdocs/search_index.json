@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Buildcraft-Additions", 
+            "text": "Buildcraft-Additions\n\n\nWelcome to the API documentation of Buildcraft-Additions.", 
             "title": "Home"
         }, 
         {
             "location": "/#buildcraft-additions", 
-            "text": "", 
+            "text": "Welcome to the API documentation of Buildcraft-Additions.", 
             "title": "Buildcraft-Additions"
         }
     ]
